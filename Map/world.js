@@ -1,3 +1,0 @@
-<world.obj>
-<map>
-<data>
