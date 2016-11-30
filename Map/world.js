@@ -1,0 +1,3 @@
+<world.obj>
+<map>
+<data>
