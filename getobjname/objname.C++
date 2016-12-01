@@ -1,0 +1,1 @@
+GetClassName(Object obj);
